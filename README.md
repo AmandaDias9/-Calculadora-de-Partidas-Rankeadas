@@ -29,3 +29,6 @@ Calcula o saldo de vitórias subtraindo as derrotas das vitórias.
 Determinação do Nível:
 
 Utiliza estruturas condicio
+
+
+LINK : https://calculadora-de-partidas-rankeadas-theta.vercel.app/
